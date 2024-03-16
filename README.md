@@ -4,6 +4,10 @@
 ![Static Badge](https://img.shields.io/badge/Practical_Manual-AI_Defensive-pink)
 
 ![logo.jpeg](logo/logo_1.png)
+
+language version:
+* English: [README.md](https://github.com/xiliunotshiryu/Defensive-AI-Practical-Manual/blob/master/README.md)
+* 中文: [README_zh.md](https://github.com/xiliunotshiryu/Defensive-AI-Practical-Manual/blob/master/README_zh.md)
 ***************************************
 ## Preface
 In late 2022, OpenAI introduced a practical artificial intelligence technology called ChatGPT, which instantly took the internet by storm. The proliferation of AI models and applications has been rapid, signaling a new era for humanity—the age of AI.
